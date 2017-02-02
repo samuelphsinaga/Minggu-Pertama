@@ -1,0 +1,3 @@
+Regular Expression Patterns
+
+http://www.w3schools.com/js/js_regexp.asp
