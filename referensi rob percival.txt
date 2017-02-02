@@ -1,0 +1,88 @@
+Further Reading 
+All websites mentioned in the tutorials are linked below, as well as a few others. Use them to learn more about 
+the topics we have covered. 
+1.
+What is Javascript?
+-
+http://www.w3schools.com/js/js_intro.asp
+-
+http://javascript.about.com/od/reference/p/javascript.htm
+-
+http://en.wikipedia.org/wiki/JavaScript
+2.
+In
+ternal Javascript
+-
+http://www.w3schools.com/js/js_examples.asp
+ (top 3 links)
+3.
+Accessing Elements
+-
+http://www.w3schools.com/jsref/met_doc_getelementbyid.asp
+4.
+Responding To A Click
+-
+http://stackoverflow.com/questions/5871640/why-is-using-onclick-in-html-a-bad-practice
+5.
+Changing Website Content
+-
+http://www.w3schools.com/jsref/prop_html_innerhtml.asp
+-
+http://www.w3schools.com/js/js_htmldom_html.asp
+6.
+Variables
+-
+www.w3schools.com/js/js_variables.asp
+-
+www.tutorialspoint.com/javascript/javascript_variables.htm
+7.
+Arrays
+-
+www.w3schools.com/js/js_arrays.asp
+-
+www.hunlock.com/blogs/Mastering_Javascript_Arrays
+8.
+If Statements
+-
+www.w3schools.com/js/js_if_else.asp
+-
+www.tutorialspoint.com/javascript/javascript_ifelse.htm
+9.
+For Loops
+-
+www.w3schools.com/js/js_loop_for.asp
+-
+www.tutorialspoint.com/javascript/javascript_for_loop.htm
+10.
+While Loops
+-
+www.w3schools.com/js/js_loop_while.asp
+-
+www.tutorialspoint.com/javascript/javascript_while_loop.htm
+11.
+F
+unctions
+-
+www.w3schools.com/js/js_functions.asp
+-
+www.quirksmode.org/js/function.html
+12.
+External Javascript
+-
+www.w3schools.com/js/tryit.asp?filename=tryjs_externalexample
+
+--Javascript Function Reference--
+
+There are a number of great Javascript reference cards and sites online. Here are a few that I find useful: 
+
+Javascript reference card: 
+
+http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf
+
+Javascript in one page: 
+
+http://www.javascript.su/
+
+Javascript function overview: 
+
+http://overapi.com/javascript/
